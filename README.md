@@ -19,3 +19,11 @@
  ## Project name PIROLL
 
  Download link https://freebiesbug.com/psd-freebies/piroll-design-template-agencypersonal-portfolio/
+
+
+ ### Honeyview software link
+ https://en.bandisoft.com/honeyview/
+
+
+ ### CSS Standard coding style
+ https://developer.wordpress.org/coding-standards/wordpress-coding-standards/css/
